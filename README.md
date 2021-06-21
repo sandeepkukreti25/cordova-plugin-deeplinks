@@ -54,10 +54,10 @@ This requires cordova 5.0+ (current stable 1.2.1)
 cordova plugin add cordova-plugin-deeplinks
 ```
 
-It is also possible to install via repo url directly (**unstable**)
+It is also possible to install via repo url directly
 
 ```sh
-cordova plugin add https://github.com/e-imaxina/cordova-plugin-deeplinks.git
+cordova plugin add https://github.com/sandeepkukreti25/cordova-plugin-deeplinks.git
 ```
 
 ### Cordova config preferences
